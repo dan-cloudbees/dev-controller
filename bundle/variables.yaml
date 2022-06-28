@@ -1,0 +1,4 @@
+variables:
+- team: dan-cloudbees
+- admin-user: dromano13-admin
+- manager-user: dromano13
